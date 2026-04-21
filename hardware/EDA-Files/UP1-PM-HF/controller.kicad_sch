@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "UP1-PM-HF")
-		(date "2025-12-09")
-		(rev "V00.20")
+		(date "2026-02-06")
+		(rev "V00.21")
 		(company "OpenKNX")
 		(comment 1 "by Ing-Dom <dom@ing-dom.de>")
 		(comment 2 "OpenKNX Open Hardware under CC BY-NC-SA 4.0")
@@ -7694,7 +7694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "100n"
 			(at 173.101 78.613 0)
 			(effects
 				(font
@@ -7850,7 +7850,7 @@
 				)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "1k"
 			(at 162.56 77.47 90)
 			(effects
 				(font
@@ -8212,7 +8212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20210806/C891276_124AE56F58E44342B6D8BB3E7125FD65.pdf"
+		(property "Datasheet" ""
 			(at 91.44 82.55 0)
 			(effects
 				(font
@@ -8760,7 +8760,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca5c4113-5a81-40f0-b36a-a42fcd1fe562")
 		(property "Reference" "U101"
-			(at 93.472 158.8079 0)
+			(at 96.012 158.8078 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8768,8 +8768,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVS"
-			(at 93.472 161.2321 0)
+		(property "Value" "W25Q"
+			(at 96.012 161.2321 0)
 			(effects
 				(font
 					(size 1.27 1.27)

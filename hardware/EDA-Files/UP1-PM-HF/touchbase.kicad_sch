@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "UP1-PM-HF")
-		(date "2025-12-09")
-		(rev "V00.20")
+		(date "2026-02-06")
+		(rev "V00.21")
 		(company "OpenKNX")
 		(comment 1 "by Ing-Dom <dom@ing-dom.de>")
 		(comment 2 "OpenKNX Open Hardware under CC BY-NC-SA 4.0")
@@ -3093,7 +3093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DomsKiCADLib:VEML7700_reverse_mount"
+		(property "Footprint" "OpenKNX:VEML7700_reverse_mount"
 			(at 125.73 77.47 0)
 			(effects
 				(font
@@ -3637,7 +3637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DomsKiCADLib:CP_Radial_D10.0mm_H20.0mm_P5.00mm_Horizontal"
+		(property "Footprint" "OpenKNX:CP_Radial_D10.0mm_H20.0mm_P5.00mm_Horizontal"
 			(at 82.2452 46.99 0)
 			(effects
 				(font
@@ -3849,7 +3849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DomsKiCADLib:HLK_TOF_reverse_mount"
+		(property "Footprint" "OpenKNX:HLK_TOF_reverse_mount"
 			(at 123.19 43.18 0)
 			(effects
 				(font

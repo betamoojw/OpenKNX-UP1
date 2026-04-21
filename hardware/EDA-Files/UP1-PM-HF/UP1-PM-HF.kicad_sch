@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "UP1-PM-HF")
-		(date "2025-12-09")
-		(rev "V00.20")
+		(date "2026-02-06")
+		(rev "V00.21")
 		(company "OpenKNX")
 		(comment 1 "by Ing-Dom <dom@ing-dom.de>")
 		(comment 2 "OpenKNX Open Hardware under CC BY-NC-SA 4.0")
@@ -2263,7 +2263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "OpenKNX:NanoBCU_PinHeader_SMD_low_profile"
+		(property "Footprint" "OpenKNX:NanoBCU_PinHeader_SMD_low_profile_bigPads"
 			(at 29.21 60.96 0)
 			(effects
 				(font
